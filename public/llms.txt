@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-8d89d6d3.zappy5.app
+https://example.com
 מחפשים פיצה מושלמת עם קינוחים מפנקים ושתייה מרעננת? בזולו פיצה תהנו ממגוון טעמים, הזמנה אונליין קלה ומשלוח מהיר עד אליכם. ביס אחד ותבינו למה אנחנו הבחירה שלכם לאוכל מנחם.
 
 ### שירותים
-https://-8d89d6d3.zappy5.app/services
+https://example.com/services
 שירותי המשלוח וההזמנה של זולו פיצה הופכים כל ארוחה לחוויה נוחה ומהירה. בחרו פיצה, קינוח או שתייה, הזמינו בקלות וקבלו ישר לדלת. ככה עושים Food &amp; Beverage כמו שצריך.
 
 ### אודות
-https://-8d89d6d3.zappy5.app/about
+https://example.com/about
 זולו פיצה זה לא סתם אוכל, זו אהבה לפיצה איכותית, חומרי גלם טריים ושירות עם חיוך. הכירו את המקום שמחבר בין טעמים מנצחים לנוחות מקסימלית, ומגיש לכם את כל הטוב בתעשיית האוכל.
 
 ### צור קשר
-https://-8d89d6d3.zappy5.app/contact
+https://example.com/contact
 יש שאלה, בקשה מיוחדת או סתם מתחשק לפטפט על פיצה? צרו קשר עם זולו פיצה וקבלו מענה מהיר ואישי. אנחנו כאן כדי להפוך כל הזמנה לחוויה מושלמת בתחום ה-Food &amp; Beverage.
 
 ### Products
-https://-8d89d6d3.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - זולו פיצה
 
 ### Cart
-https://-8d89d6d3.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-8d89d6d3.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-8d89d6d3.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-8d89d6d3.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-8d89d6d3.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-8d89d6d3.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - זולו פיצה
 
 ### Category
-https://-8d89d6d3.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - זולו פיצה
 
 ### תודה שפניתם אלינו
-https://-8d89d6d3.zappy5.app/thank-you
+https://example.com/thank-you
 זולו פיצה - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-8d89d6d3.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-8d89d6d3.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-8d89d6d3.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -104,8 +104,8 @@ Food & Beverage
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-8d89d6d3.zappy5.app/sitemap.xml
-- Robots: https://-8d89d6d3.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-8d89d6d3.zappy5.app/llms-full.txt
-- Products (JSON): https://-8d89d6d3.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-8d89d6d3.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
