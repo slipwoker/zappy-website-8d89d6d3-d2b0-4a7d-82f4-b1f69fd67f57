@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### פיצה משפחתית 
+https://example.com/product/pytsh-mshpchtyt-avzfos
+- Price: 25.00 ILS
+- Availability: In stock
+- Description: פיצה משפחתית ללא תוספות
+- Image: https://example.com/assets/product-1782151361173-omi8hf.webp
 
 ---
 

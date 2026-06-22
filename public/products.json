@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-21T21:31:33.819Z",
+  "generated_at": "2026-06-22T18:06:14.697Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "9367bfdd-cd0c-4296-b420-90a6cd2c6443",
+      "slug": "pytsh-mshpchtyt-avzfos",
+      "name": "פיצה משפחתית ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "פיצה משפחתית ללא תוספות ",
+      "sku": null,
+      "brand": null,
+      "price": 25,
+      "base_price": 25,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782151361173-omi8hf.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/pytsh-mshpchtyt-avzfos",
+      "categories": [],
+      "updated_at": "2026-06-22T18:02:52.442Z"
+    }
+  ]
 }
